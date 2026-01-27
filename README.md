@@ -1,10 +1,10 @@
-## 👋 Hi, I'm Neeraj Sahu!
+## Hi, I'm Neeraj Sahu!
 
-🎯 **Data Analyst | Python | SQL | Power BI | Tableau | Excel**
+**Data Analyst**
 
 ---
 
-## 🚀 About Me
+## About Me
 I am a Mechanical Engineering graduate with a strong interest in data-driven problem solving and analytics.
 
 To transition into the data domain, I completed an Advanced Certification in Full Stack Data Science & AI (August 2024 – December 2025) provided by the Electronics & ICT Academy, Indian Institute of Technology (IIT) Guwahati, gaining hands-on experience through industry-style projects and real-world datasets.
@@ -33,7 +33,7 @@ I enjoy transforming raw data into meaningful insights and visual stories that s
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 - **Databases and Querying :** MySQL, PostgreSQL, SQL (Joins, Subqueries, Aggregations, CTEs)  
 - **Analytics and BI :** Power BI (DAX), Tableau, Data Visualization, KPI Reporting 
 - **Spreadsheets and Reporting :** Excel (Pivot Tables, VLOOKUP, Power Query)  
@@ -51,4 +51,5 @@ I enjoy transforming raw data into meaningful insights and visual stories that s
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/neeraj-sahu-567351372/
+- <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/963cf179-c128-40e6-acfb-14c52eb21615" />
+  LinkedIn: https://www.linkedin.com/in/neeraj-sahu-567351372/
