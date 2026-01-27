@@ -51,5 +51,4 @@ I enjoy transforming raw data into meaningful insights and visual stories that s
 ---
 
 ## 🔗 Connect With Me
-- <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/963cf179-c128-40e6-acfb-14c52eb21615" />
-  LinkedIn: https://www.linkedin.com/in/neeraj-sahu-567351372/
+- LinkedIn: https://www.linkedin.com/in/neeraj-sahu-567351372/
