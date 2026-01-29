@@ -1,4 +1,3 @@
-![Uploading Banner Image.jpg…]()
 
 
 
