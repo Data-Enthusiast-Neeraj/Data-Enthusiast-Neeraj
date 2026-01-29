@@ -1,4 +1,4 @@
-![banner](https://drive.google.com/file/d/19CRYOKppJa_QMp1VQwQsV3pZ02TVPH-L/view?usp=sharing)
+![Banner Image](https://github.com/user-attachments/assets/b9659c8e-c3a3-44a2-a6f8-e02a635bb802)
 
 
 ## Hi, I'm Neeraj Sahu!
