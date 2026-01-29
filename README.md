@@ -1,3 +1,5 @@
+![1000032010](https://github.com/user-attachments/assets/aef5fecf-7efc-4bbf-90a7-570d5f641b85)
+
 ## Hi, I'm Neeraj Sahu!
 
 **Data Analyst**
